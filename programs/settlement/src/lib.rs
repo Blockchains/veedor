@@ -37,7 +37,7 @@ pub use state::{AttestationArg, JobTerms, JobWindows, RulingArg, JOB_SEED};
 // readable file without making it a real nested module.
 include!("contexts.rs");
 
-declare_id!("8YpCfYtCBiLZ5SzTcmVZ5fkeBbPrvveWZnEzwpN8CQfJ");
+declare_id!("8tfDUS6aWbThoz2r3oGALDe6RNsucRYPBbH89h5YZBx4");
 
 #[program]
 pub mod settlement {

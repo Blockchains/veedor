@@ -5,10 +5,10 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-settlement = "8YpCfYtCBiLZ5SzTcmVZ5fkeBbPrvveWZnEzwpN8CQfJ"
+settlement = "8tfDUS6aWbThoz2r3oGALDe6RNsucRYPBbH89h5YZBx4"
 
 [programs.devnet]
-settlement = "8YpCfYtCBiLZ5SzTcmVZ5fkeBbPrvveWZnEzwpN8CQfJ"
+settlement = "8tfDUS6aWbThoz2r3oGALDe6RNsucRYPBbH89h5YZBx4"
 
 [registry]
 url = "https://api.apr.dev"
